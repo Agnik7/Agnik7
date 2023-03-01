@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML5, CSS3, Vanilla JavaScript**
 
-- 📫 How to reach me **bakshi.agnik@gmail.com**
+- 📫 Email me at **bakshi.agnik@gmail.com**
 
 - ⚡ Fun fact **Every 60 seconds, a minute passes.**
 
