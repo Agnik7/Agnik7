@@ -29,5 +29,9 @@
 <a href="https://medium.com/@bakshi.agnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bakshi.agnik" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@agnikbakshi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@agnikbakshi2" height="30" width="40" /></a> 
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agnik7&theme=merko&show_icons=true&locale=en" alt="agnik7" /><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agnik7&theme=merko&show_icons=true&locale=en&layout=compact" align="center" alt="agnik7" /></p></p>
+<div style="display:flex;flex-direction:column;">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=agnik7&count_private=true&show_icons=true&theme=radical" alt="agnik7" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGNIK7&show_icons=true&theme=radical" alt="agnik7"></p>  
+ </div>
+
 </div>
