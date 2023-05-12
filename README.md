@@ -9,7 +9,7 @@
 <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" align="right" width=400 alt="Coding"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agnik7&label=Profile%20views&color=0e75b6&style=flat" alt="agnik7" /> </p>
 
-- 🤓 I’m currently learning **Frontend Web Development**
+- 🤓 I’m currently learning **Python Development**
 
 - 📝 Check out my blogs on [https://medium.com/@bakshi.agnik](https://medium.com/@bakshi.agnik)
 
