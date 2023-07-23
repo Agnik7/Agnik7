@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQHcJJQd2ywjAQ/profile-displaybackgroundimage-shrink_350_1400/0/1686796349971?e=1692230400&v=beta&t=kWdCp0Maqx70mH2FuqpNix7AbXPC6urON0u7x9iCAlg" width = 100% alt="Web Banner"/>
 <div align="center" width=100%>
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Agnik+Bakshi;I+like+Web+Development;I+like+Coding;System.exit(0)+%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Agnik+Bakshi;A+Full+stack+developer;I+like+Coding;System.exit(0)+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </div>
 <br>
 <div>
