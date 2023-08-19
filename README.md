@@ -1,11 +1,11 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQHcJJQd2ywjAQ/profile-displaybackgroundimage-shrink_350_1400/0/1686796349971?e=1692230400&v=beta&t=kWdCp0Maqx70mH2FuqpNix7AbXPC6urON0u7x9iCAlg" width = 100% alt="Web Banner"/>
+<img src="https://media.licdn.com/dms/image/D4D16AQHcJJQd2ywjAQ/profile-displaybackgroundimage-shrink_350_1400/0/1686796349971?e=1697673600&v=beta&t=8E7i4AnOIiPlGbRM4iUTfTS5lGGRqRbHYzIUTq23AMM" width = 100% alt="Web Banner"/>
 <div align="center" width=100%>
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Agnik+Bakshi;A+Full+Stack+Developer;I+love+Coding;System.exit(0)+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </div>
 <br>
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agnik7&label=Profile%20views&color=0e75b6&style=flat" alt="agnik7" /> </p>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Agnik7&margin-w=5&theme=radical" alt="Agnik Bakshi" /></p>  
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Agnik7&margin-w=5&theme=radical&no-frame=true&no-bg=true" alt="Agnik Bakshi" /></p>  
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agnik7&theme=merko&show_icons=true" alt="agnik7" /></p>
 <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" align="right" width=400 alt="Coding"/>
 
@@ -50,8 +50,8 @@
 <a href="https://medium.com/@bakshi.agnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bakshi.agnik" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@agnikbakshi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@agnikbakshi2" height="30" width="40" /></a> 
 </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agnik7&show_icons=true&theme=radical&locale=en&layout=compact" alt="agnik7" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agnik7&show_icons=true&theme=radical&locale=en" alt="agnik7" /></p>
 </div>
 
+<p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=Agnik7&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contributor Stats" /></p>
