@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **Programming is less writing, more thinking.**
 
-<h3 align="left"> Portfolio: <a href="https://agnik-bakshi-portfolio.netlify.app/" target="_blank">Agnik Bakshi Portfolio</a></h3>
+<h3 align="left"> Portfolio: <a href="https://agnik-bakshi-portfolio.vercel.app/" target="_blank">Agnik Bakshi Portfolio</a></h3>
 
 <h2 align="left">Languages and Tools:</h2>
 <h3>Programming Languages</h3>  
