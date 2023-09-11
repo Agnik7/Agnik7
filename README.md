@@ -14,7 +14,7 @@
 
 - 📝 Check out my blogs on [https://medium.com/@bakshi.agnik](https://medium.com/@bakshi.agnik)
 
-- 💬 Ask me about **HTML5, CSS3, Vanilla JavaScript, Bootstrap, Tailwind, Python, Java**
+- 💬 Ask me about **HTML5, CSS3, Vanilla JavaScript, ReactJs, Tailwind, Python, Java**
 
 - 📫 Email me at **bakshi.agnik@gmail.com**
 
