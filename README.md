@@ -5,7 +5,7 @@
 <br>
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agnik7&label=Profile%20views&color=0e75b6&style=flat" alt="agnik7" /> </p>
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agnik7&theme=radical" alt="agnik7" /></a></p>  
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Agnik7&margin-w=5&theme=radical&no-frame=true&no-bg=true" alt="Agnik Bakshi" /></p>  
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agnik7&theme=merko&show_icons=true" alt="agnik7" /></p>
 <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" align="right" width=400 alt="Coding"/>
 
