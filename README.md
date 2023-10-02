@@ -50,6 +50,16 @@
 <a href="https://medium.com/@bakshi.agnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bakshi.agnik" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@agnikbakshi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@agnikbakshi2" height="30" width="40" /></a> 
 </p>
+
+## Open Source Contributions
+
+| 🎁 Repository | 📚 Forks | ⭐ Stars | 
+| --- | --- | --- |
+| [![Github Repo](https://img.shields.io/badge/N0vice17-Data--Structures--and--Algorithm-blue?style=flat-square)](https://github.com/N0vice17/DataStructures-And-Algorithm) | ![GitHub forks](https://img.shields.io/github/forks/N0vice17/DataStructures-And-Algorithm?style=flat-square) | ![GitHub Repo stars](https://img.shields.io/github/stars/N0vice17/DataStructures-And-Algorithm?style=flat-square) |
+| [![Github Repo](https://img.shields.io/badge/intuit-Trapheus-blue?style=flat-square)](https://github.com/intuit/Trapheus) | ![GitHub forks](https://img.shields.io/github/forks/intuit/Trapheus?style=flat-square) | ![GitHub Repo stars](https://img.shields.io/github/stars/intuit/Trapheus?style=flat-square) |
+| [![Github Repo](https://img.shields.io/badge/Tracardi-tracardi-blue?style=flat-square)](https://github.com/Tracardi/tracardi) | ![GitHub forks](https://img.shields.io/github/forks/Tracardi/tracardi?style=flat-square) | ![GitHub Repo stars](https://img.shields.io/github/stars/Tracardi/tracardi?style=flat-square) |
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agnik7&show_icons=true&theme=radical&locale=en&layout=compact" alt="agnik7" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agnik7&show_icons=true&theme=radical&locale=en" alt="agnik7" /></p>
 </div>
