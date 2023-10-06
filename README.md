@@ -61,7 +61,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agnik7&show_icons=true&theme=radical&locale=en&layout=compact" alt="agnik7" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agnik7&show_icons=true&theme=radical&locale=en" alt="agnik7" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agnik7&include_all_commits=true&show_icons=true&theme=radical&locale=en" alt="agnik7" /></p>
 </div>
 
 <p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=Agnik7&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contributor Stats" /></p>
