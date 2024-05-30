@@ -10,7 +10,7 @@
 <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" align="right" width=400 alt="Coding"/>
 
 
-- 🤓 I’m currently learning **Python Development and DSA**
+- 🤓 I’m currently learning **Fullstack Development and DSA**
 
 - 📝 Check out my blogs on [https://medium.com/@bakshi.agnik](https://medium.com/@bakshi.agnik)
 
