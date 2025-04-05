@@ -1,4 +1,4 @@
-[![An image of @agnik7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/agnik7)](https://holopin.io/@agnik7)
+[![An image of @agnik7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/agnik7)](https://holopin.io/@agnik7) 
 <div align="center" width=100%>
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Agnik+Bakshi;A+Full+Stack+Developer;I+love+Coding;System.exit(0)+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </div>
