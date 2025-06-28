@@ -8,7 +8,7 @@
 <p align="center"><img src="https://github-trophies.vercel.app/?username=Agnik7&margin-w=5&theme=radical&no-frame=true&no-bg=true" alt="Agnik Bakshi" /></p>  
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agnik7&theme=merko&show_icons=true" alt="agnik7" /></p>
 <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" align="right" width=400 alt="Coding"/>
-
+<br/>
 
 - 🤓 I’m currently learning **Fullstack Development and DSA**
 
@@ -21,6 +21,24 @@
 - ⚡ Fun fact **Programming is less writing, more thinking.**
 
 <h3 align="left"> Portfolio: <a href="https://agnik-bakshi-portfolio.vercel.app/" target="_blank">Agnik Bakshi Portfolio</a></h3>
+<h2 align="left" id="work-experience">🧳 Work Experience 🖥️🚀</h2> 
+
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>🏢 Company</b></td> 
+      <td><b>👨‍💻 Role</b></td> 
+      <td><b>📅 Duration</b></td> 
+    </tr>
+  </thead>
+  <tbody> 
+    <tr>
+      <td><a href="https://binaryfolks.com/"><b>BinaryFolks Pvt. Ltd.</b></a></td>
+      <td><b>🧑‍💻 Software Developer (SDE)</b></td>
+      <td><b>May 2025 – Present</b></td>
+    </tr>
+  </tbody>	 
+</table>
 
 <h2 align="left">Languages and Tools:</h2>
 <h3>Programming Languages</h3>  
